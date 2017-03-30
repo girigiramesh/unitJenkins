@@ -35,7 +35,7 @@ public class MyClassTest {
         int a = 10;
         int b = 20;
         int add = myClass.sum(a, b);
-        int result = 30;
+        int result = 40;
         assertEquals(add, result);
     }
 
